@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.dropbox.com/s/is7w8qrascxzuh3/Screenshot%202022-11-06%20143222.png" alt="project-screenshot" width="721px" height="433px/">
+<img src="C:\Users\hp\Dropbox\project images\Screenshot 2022-11-06 143222.png" alt="project-screenshot" width="721px" height="433px/">
 
 <img src="https://www.dropbox.com/s/3mwgspayxcrkpki/Screenshot%202022-11-06%20143311.png" alt="project-screenshot" width="721px" height="433px/">
 
