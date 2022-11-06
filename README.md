@@ -2,7 +2,7 @@
 
 <p id="description">This is minor java project which encrypts and also decrypts any image file with a key which is provided by the user .</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Image%20-Encryption-blue" alt="shields"><img src="https://img.shields.io/badge/Image%20-Decryption-red" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/Image%20-Encryption-blue" alt="shields">  <img src="https://img.shields.io/badge/Image%20-Decryption-red" alt="shields"></p>
   
   
 <h2>🧐 Features</h2>
